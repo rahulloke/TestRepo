@@ -1,3 +1,4 @@
 # TestRepo
 - Rahul Loke Git Testing
-- Rahul made this change
+- This is an example to make merge conflict
+
